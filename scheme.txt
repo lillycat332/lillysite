@@ -1,0 +1,1 @@
+base #FFF5F7, main #FFB6C1, accent #FF768A
